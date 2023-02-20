@@ -58,46 +58,7 @@
         DOWNLOAD
       </button>
       <a ref="rendered" style="display: none"></a>
-      <div class="row flex-center margin-top">
-        
-      </div>
-    </div>
-  </div>
-  <div>
-  <p>A slowed reverbed generator tool is a digital audio processing tool that is used to create slowed-down and reverberated versions of sound recordings. This tool is used primarily in the creation of ambient music and soundscapes, as well as in the creation of other forms of experimental music.</p>
-
-<p>The slowed reverbed generator tool works by taking a sound recording and slowing it down to a specific tempo, while also adding reverberation to the sound. This results in a slower and more atmospheric version of the original sound, with a sense of space and depth created by the added reverb.</p>
-
-<p>One of the key features of the slowed reverbed generator tool is the ability to adjust the amount of reverb that is added to the sound. This can range from a subtle amount of reverb, to a more extreme and pronounced reverb effect that creates a sense of distance and depth in the sound.</p>
-
-<p>In addition to adjusting the amount of reverb, the tool also allows the user to adjust the length of the reverb tail. This is the amount of time that the reverberation persists after the original sound has stopped. By adjusting the length of the reverb tail, the user can create a variety of different effects, from a short, sharp burst of reverb, to a long, drawn-out reverberation that creates a sense of sustained space and atmosphere.</p>
-
-<p>The slowed reverbed generator tool can be used in a variety of different ways, depending on the desired effect. It can be used to create background atmospheres and textures, to add depth and atmosphere to existing recordings, or to create new and experimental soundscapes.</p>
-
-<p>One of the advantages of using a slowed reverbed generator tool is the ability to create unique and interesting sounds that are difficult to achieve through traditional recording techniques. By manipulating the tempo and reverb of a sound recording, the user can create a completely different sonic environment, with a sense of depth and space that is not possible through conventional recording methods.</p>
-
-<p>Overall, the slowed reverbed generator tool is a powerful and versatile tool that is widely used in the creation of ambient and experimental music. With its ability to manipulate the tempo and reverb of sound recordings, it offers a unique way to create atmospheric and otherworldly soundscapes, and to explore new sonic territories.</p>
-  </div>
-  <div>
-  <h2>FAQ FOR Slow and Reverb Audio</h2>
-  What is a Slowed Reverbed Generator?
-A Slowed Reverbed Generator is a digital audio processing tool that allows users to slow down a sound recording while adding reverb to create a slower and more atmospheric version of the original sound.
-
-What kind of music is Slowed Reverbed Generator used for?
-Slowed Reverbed Generator is commonly used for creating ambient and experimental music.
-
-What are the key features of a Slowed Reverbed Generator?
-The key features of a Slowed Reverbed Generator include the ability to adjust the amount of reverb, the length of the reverb tail, and the tempo of the recording.
-
-Can Slowed Reverbed Generator be used on any type of sound recording?
-Slowed Reverbed Generator can be used on any type of sound recording, including vocals, instruments, and field recordings.
-
-What are some creative ways to use Slowed Reverbed Generator?
-Some creative ways to use Slowed Reverbed Generator include adding reverb to recordings of nature sounds, creating a slowed down version of a popular song, and layering multiple recordings to create an ambient soundscape.
-
-How does Slowed Reverbed Generator differ from other audio effects?
-Slowed Reverbed Generator differs from other audio effects in that it specifically slows down the tempo of a recording while adding reverb, creating a unique atmospheric effect.
-  </div>
+      
 </template>
 
 <script>
